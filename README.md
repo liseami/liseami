@@ -10,9 +10,10 @@
 - 计划中的App有：Fantline黑胶拉片、朋克易经
 - liseami@qq.com zhaoxinagyuliseami@gmail.com
 - 如果你技术不错，想参与纯想公司的创业，可以将简历发送至我的邮箱
-- 如果在完成使命的路上我有任何生命意外不能继续
-- 我想我金色的年华会让我有底气迎接死亡
-- 因为看见了天命，我早已度过人生中最辉煌的一天
+- 如果在完成使命的路上我有任何生命安全的意外导致不能继续
+- 我金色的年华会让我有底气心安理得地迎接死亡
+- 因为看见了自己的天命，我早已度过人生中最辉煌的一天
+- 往后的每一天的努力，无非是向那最美的一天的朝拜
 
 <!---
 liseami/liseami is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
