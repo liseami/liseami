@@ -9,11 +9,9 @@
 - 目前，我已经创作了：陌生人闹钟、星环、Spo储藏室
 - 计划中的App有：Fantline黑胶拉片、朋克易经
 - liseami@qq.com zhaoxinagyuliseami@gmail.com
-- 如果你技术不错，想参与纯想公司的创业，可以将简历发送至我的邮箱
-- 如果在完成使命的路上我有任何生命安全的意外导致不能继续
-- 我金色的年华会让我有底气心安理得地迎接死亡
-- 因为看见了自己的天命，我早已度过人生中最辉煌的一天
-- 往后的每一天的努力，无非是向那最美的一天的朝拜
+- 如果你想参与纯想公司的创业，可以将简历发送至我的邮箱
+- 纯想即飞，有你参与的PrueFantsy将是一家伟大的公司
+- 我信仰奇迹，因为我就是奇迹
 
 <!---
 liseami/liseami is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
