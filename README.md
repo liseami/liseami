@@ -1,5 +1,5 @@
 <!--
-[INPUT]: chunxiang.ai 公开资料（身份、产品、文章、荣誉、社交链接）；本仓库 assets/banner.svg。
+[INPUT]: chunxiang.ai 公开资料（身份、产品、文章、荣誉、社交链接）；assets/banner.svg 由 scripts/banner.py 生成。
 [OUTPUT]: GitHub 个人主页首屏：横幅、联系入口、在做的产品、在写的作品、2025 荣誉。
 [POS]: liseami 的门面。置顶仓库与贡献图紧随其下，故本文件不重复列开源项目。
 [PROTOCOL]: 变更时更新此头部，然后检查 CLAUDE.md
